@@ -1,0 +1,203 @@
+ContinentCode,Continent,country_code,country_name
+AS,Asia,AFG,Afghanistan
+EU,Europe,ALB,Albania
+AF,Africa,DZA,Algeria
+EU,Europe,AND,Andorra
+AF,Africa,AGO,Angola
+NA,North America,ATG,Antigua and Barbuda
+SA,South America,ARG,Argentina
+AS,Asia,ARM,Armenia
+NA,North America,ABW,Aruba
+OC,Oceania,AUS,Australia
+EU,Europe,AUT,Austria
+AS,Asia,AZE,Azerbaijan
+NA,North America,BHS,Bahamas
+AS,Asia,BHR,Bahrain
+AS,Asia,BGD,Bangladesh
+NA,North America,BRB,Barbados
+EU,Europe,BLR,Belarus
+EU,Europe,BEL,Belgium
+NA,North America,BLZ,Belize
+AF,Africa,BEN,Benin
+NA,North America,BMU,Bermuda
+AS,Asia,BTN,Bhutan
+SA,South America,BOL,Bolivia
+EU,Europe,BIH,Bosnia and Herzegovina
+AF,Africa,BWA,Botswana
+SA,South America,BRA,Brazil
+AS,Asia,BRN,Brunei
+EU,Europe,BGR,Bulgaria
+AF,Africa,BFA,Burkina Faso
+AS,Asia,MMR,Burma (Myanmar)
+AF,Africa,BDI,Burundi
+AS,Asia,KHM,Cambodia
+AF,Africa,CMR,Cameroon
+NA,North America,CAN,Canada
+AF,Africa,CPV,Cape Verde
+AF,Africa,CAF,Central African Republic
+AF,Africa,TCD,Chad
+SA,South America,CHL,Chile
+AS,Asia,CHN,China
+SA,South America,COL,Colombia
+AF,Africa,COM,Comoros
+NA,North America,CRC,Costa Rica
+EU,Europe,HRV,Croatia
+EU,Europe,CYP,Cyprus
+EU,Europe,CZE,Czechia
+AF,Africa,COD,Democratic Republic of the Congo
+EU,Europe,DNK,Denmark
+AF,Africa,DJI,Djibouti
+NA,North America,DMA,Dominica
+NA,North America,DOM,Dominican Republic
+SA,South America,ECU,Ecuador
+AF,Africa,EGY,Egypt
+NA,North America,SLV,El Salvador
+AF,Africa,GNQ,Equatorial Guinea
+AF,Africa,ERI,Eritrea
+EU,Europe,EST,Estonia
+AF,Africa,ETH,Ethiopia
+EU,Europe,FRO,Faroe Islands
+OC,Oceania,FJI,Fiji
+EU,Europe,FIN,Finland
+EU,Europe,FRA,France
+AF,Africa,GAB,Gabon
+AF,Africa,GMB,Gambia
+AS,Asia,GEO,Georgia
+EU,Europe,DEU,Germany
+AF,Africa,GHA,Ghana
+EU,Europe,GIB,Gibraltar
+EU,Europe,GRC,Greece
+NA,North America,GRD,Grenada
+NA,North America,GTM,Guatemala
+AF,Africa,GIN,Guinea
+AF,Africa,GNB,Guinea-Bissau
+SA,South America,GUY,Guyana
+NA,North America,HTI,Haiti
+NA,North America,HND,Honduras
+AS,Asia,HKG,Hong Kong
+EU,Europe,HUN,Hungary
+EU,Europe,ISL,Iceland
+AS,Asia,IND,India
+AS,Asia,IDN,Indonesia
+AS,Asia,IRN,Iran
+AS,Asia,IRQ,Iraq
+EU,Europe,IRL,Ireland
+AS,Asia,ISR,Israel
+EU,Europe,ITA,Italy
+AF,Africa,CIV,Ivory Coast
+NA,North America,JAM,Jamaica
+AS,Asia,JPN,Japan
+AS,Asia,JOR,Jordan
+AS,Asia,KAZ,Kazakhstan
+AF,Africa,KEN,Kenya
+OC,Oceania,KIR,Kiribati
+AS,Asia,KWT,Kuwait
+AS,Asia,KGZ,Kyrgyzstan
+AS,Asia,LAO,Laos
+EU,Europe,LVA,Latvia
+AS,Asia,LBN,Lebanon
+AF,Africa,LSO,Lesotho
+AF,Africa,LBR,Liberia
+AF,Africa,LBY,Libya
+EU,Europe,LIE,Liechtenstein
+EU,Europe,LTU,Lithuania
+EU,Europe,LUX,Luxembourg
+AS,Asia,MAC,Macao
+AF,Africa,MDG,Madagascar
+AF,Africa,MWI,Malawi
+AS,Asia,MYS,Malaysia
+AS,Asia,MDV,Maldives
+AF,Africa,MLI,Mali
+EU,Europe,MLT,Malta
+AF,Africa,MRT,Mauritania
+AF,Africa,MUS,Mauritius
+NA,North America,MEX,Mexico
+OC,Oceania,FSM,Micronesia
+EU,Europe,MDA,Moldova
+EU,Europe,MCO,Monaco
+AS,Asia,MNG,Mongolia
+EU,Europe,MNE,Montenegro
+AF,Africa,MAR,Morocco
+AF,Africa,MOZ,Mozambique
+AF,Africa,NAM,Namibia
+AS,Asia,NPL,Nepal
+EU,Europe,NLD,Netherlands
+OC,Oceania,NCL,New Caledonia
+OC,Oceania,NZL,New Zealand
+NA,North America,NIC,Nicaragua
+AF,Africa,NER,Niger
+AF,Africa,NGA,Nigeria
+AS,Asia,PRK,North Korea
+EU,Europe,MKD,North Macedonia
+EU,Europe,NOR,Norway
+AS,Asia,OMN,Oman
+AS,Asia,PAK,Pakistan
+OC,Oceania,PLW,Palau
+AS,Asia,PS,Palestine
+NA,North America,PAN,Panama
+OC,Oceania,PNG,Papua New Guinea
+SA,South America,PRY,Paraguay
+SA,South America,PER,Peru
+AS,Asia,PHL,Philippines
+EU,Europe,POL,Poland
+EU,Europe,PRT,Portugal
+NA,North America,PRI,Puerto Rico
+AS,Asia,QAT,Qatar
+AF,Africa,COG,Republic of the Congo
+EU,Europe,ROU,Romania
+EU,Europe,RUS,Russia
+AF,Africa,RWA,Rwanda
+NA,North America,LCA,Saint Lucia
+NA,North America,VCT,Saint Vincent and the Grenadines
+OC,Oceania,WSM,Samoa
+EU,Europe,SMR,San Marino
+AF,Africa,STP,Sao Tome and Principe
+AS,Asia,SAU,Saudi Arabia
+AF,Africa,SEN,Senegal
+EU,Europe,SRB,Serbia
+AF,Africa,SYC,Seychelles
+AF,Africa,SLE,Sierra Leone
+AS,Asia,SGP,Singapore
+EU,Europe,SVK,Slovakia
+EU,Europe,SVN,Slovenia
+OC,Oceania,SLB,Solomon Islands
+AF,Africa,SOM,Somalia
+AF,Africa,ZAF,South Africa
+AS,Asia,KOR,South Korea
+EU,Europe,ESP,Spain
+AS,Asia,LKA,Sri Lanka
+AF,Africa,SDN,Sudan
+SA,South America,SUR,Suriname
+AF,Africa,SWZ,Swaziland
+EU,Europe,SWE,Sweden
+EU,Europe,CHE,Switzerland
+AS,Asia,SYR,Syria
+AS,Asia,TWN,Taiwan
+AS,Asia,TJK,Tajikistan
+AF,Africa,TZA,Tanzania
+AS,Asia,THA,Thailand
+AF,Africa,TGO,Togo
+OC,Oceania,TON,Tonga
+NA,North America,TTO,Trinidad and Tobago
+AF,Africa,TUN,Tunisia
+EU,Europe,TUR,Turkey
+AS,Asia,TKM,Turkmenistan
+OC,Oceania,TUV,Tuvalu
+AF,Africa,UGA,Uganda
+EU,Europe,UKR,Ukraine
+AS,Asia,ARE,United Arab Emirates
+EU,Europe,GBR,United Kingdom
+SA,South America,URY,Uruguay
+NA,North America,USA,USA
+AS,Asia,UZB,Uzbekistan
+OC,Oceania,VUT,Vanuatu
+SA,South America,VEN,Venezuela
+AS,Asia,VNM,Vietnam
+AS,Asia,YEM,Yemen
+AF,Africa,ZMB,Zambia
+AF,Africa,ZWE,Zimbabwe
+NA,North America,CUB,Cuba
+EU,Europe,VAT,Holy See (Vatican City)
+NA,North America,MSR,Montserrat
+EU,Europe,XC,Euro area
+OC,Oceania,NFK,Norfolk Island
