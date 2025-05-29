@@ -1,0 +1,209 @@
+,ContinentCode,country_code,country_name,Continent
+0,NA,ABW,Aruba,North America
+1,AS,AFG,Afghanistan,Asia
+2,AF,AGO,Angola,Africa
+3,EU,ALB,Albania,Europe
+4,EU,AND,Andorra,Europe
+5,AS,ARE,United Arab Emirates,Asia
+6,SA,ARG,Argentina,South America
+7,AS,ARM,Armenia,Asia
+8,NA,ATG,Antigua and Barbuda,North America
+9,OC,AUS,Australia,Oceania
+10,EU,AUT,Austria,Europe
+11,AS,AZE,Azerbaijan,Asia
+12,AF,BDI,Burundi,Africa
+13,EU,BEL,Belgium,Europe
+14,AF,BEN,Benin,Africa
+15,AF,BFA,Burkina Faso,Africa
+16,AS,BGD,Bangladesh,Asia
+17,EU,BGR,Bulgaria,Europe
+18,AS,BHR,Bahrain,Asia
+19,NA,BHS,Bahamas,North America
+20,EU,BIH,Bosnia and Herzegovina,Europe
+21,EU,BLR,Belarus,Europe
+22,NA,BLZ,Belize,North America
+23,NA,BMU,Bermuda,North America
+24,SA,BOL,Bolivia,South America
+25,SA,BRA,Brazil,South America
+26,NA,BRB,Barbados,North America
+27,AS,BRN,Brunei,Asia
+28,AS,BTN,Bhutan,Asia
+29,AF,BWA,Botswana,Africa
+30,AF,CAF,Central African Republic,Africa
+31,NA,CAN,Canada,North America
+32,EU,CHE,Switzerland,Europe
+33,SA,CHL,Chile,South America
+34,AS,CHN,China,Asia
+35,AF,CIV,Ivory Coast,Africa
+36,AF,CMR,Cameroon,Africa
+37,AF,COD,Democratic Republic of the Congo,Africa
+38,AF,COG,Republic of the Congo,Africa
+39,SA,COL,Colombia,South America
+40,AF,COM,Comoros,Africa
+41,AF,CPV,Cape Verde,Africa
+42,NA,CRC,Costa Rica,North America
+44,NA,CUB,Cuba,North America
+45,RW,CUW,Curaçao,Rest of World
+46,RW,CYM,Cayman Isds,Rest of World
+47,EU,CYP,Cyprus,Europe
+48,EU,CZE,Czechia,Europe
+49,EU,DEU,Germany,Europe
+50,AF,DJI,Djibouti,Africa
+51,NA,DMA,Dominica,North America
+52,EU,DNK,Denmark,Europe
+53,NA,DOM,Dominican Republic,North America
+54,AF,DZA,Algeria,Africa
+55,SA,ECU,Ecuador,South America
+56,AF,EGY,Egypt,Africa
+57,AF,ERI,Eritrea,Africa
+58,EU,ESP,Spain,Europe
+59,EU,EST,Estonia,Europe
+60,AF,ETH,Ethiopia,Africa
+61,EU,FIN,Finland,Europe
+62,OC,FJI,Fiji,Oceania
+63,EU,FRA,France,Europe
+64,EU,FRO,Faroe Islands,Europe
+65,OC,FSM,Micronesia,Oceania
+66,AF,GAB,Gabon,Africa
+67,EU,GBR,United Kingdom,Europe
+68,AS,GEO,Georgia,Asia
+69,AF,GHA,Ghana,Africa
+70,EU,GIB,Gibraltar,Europe
+71,AF,GIN,Guinea,Africa
+72,AF,GMB,Gambia,Africa
+73,AF,GNB,Guinea-Bissau,Africa
+74,AF,GNQ,Equatorial Guinea,Africa
+75,EU,GRC,Greece,Europe
+76,NA,GRD,Grenada,North America
+77,NA,GTM,Guatemala,North America
+78,SA,GUY,Guyana,South America
+79,AS,HKG,Hong Kong,Asia
+80,NA,HND,Honduras,North America
+81,EU,HRV,Croatia,Europe
+82,NA,HTI,Haiti,North America
+83,EU,HUN,Hungary,Europe
+84,AS,IDN,Indonesia,Asia
+85,AS,IND,India,Asia
+86,EU,IRL,Ireland,Europe
+87,AS,IRN,Iran,Asia
+88,AS,IRQ,Iraq,Asia
+89,EU,ISL,Iceland,Europe
+90,AS,ISR,Israel,Asia
+91,EU,ITA,Italy,Europe
+92,NA,JAM,Jamaica,North America
+93,AS,JOR,Jordan,Asia
+94,AS,JPN,Japan,Asia
+95,AS,KAZ,Kazakhstan,Asia
+96,AF,KEN,Kenya,Africa
+97,AS,KGZ,Kyrgyzstan,Asia
+98,AS,KHM,Cambodia,Asia
+99,OC,KIR,Kiribati,Oceania
+100,AS,KOR,South Korea,Asia
+101,AS,KWT,Kuwait,Asia
+102,AS,LAO,Laos,Asia
+103,AS,LBN,Lebanon,Asia
+104,AF,LBR,Liberia,Africa
+105,AF,LBY,Libya,Africa
+106,NA,LCA,Saint Lucia,North America
+107,EU,LIE,Liechtenstein,Europe
+108,AS,LKA,Sri Lanka,Asia
+109,AF,LSO,Lesotho,Africa
+110,EU,LTU,Lithuania,Europe
+111,EU,LUX,Luxembourg,Europe
+112,EU,LVA,Latvia,Europe
+113,AS,MAC,Macao,Asia
+114,AF,MAR,Morocco,Africa
+115,EU,MCO,Monaco,Europe
+116,EU,MDA,Moldova,Europe
+117,AF,MDG,Madagascar,Africa
+118,AS,MDV,Maldives,Asia
+119,NA,MEX,Mexico,North America
+120,EU,MKD,North Macedonia,Europe
+121,AF,MLI,Mali,Africa
+122,EU,MLT,Malta,Europe
+123,AS,MMR,Burma (Myanmar),Asia
+124,EU,MNE,Montenegro,Europe
+125,AS,MNG,Mongolia,Asia
+126,AF,MOZ,Mozambique,Africa
+127,AF,MRT,Mauritania,Africa
+128,NA,MSR,Montserrat,North America
+129,AF,MUS,Mauritius,Africa
+130,AF,MWI,Malawi,Africa
+131,AS,MYS,Malaysia,Asia
+132,AF,NAM,Namibia,Africa
+133,OC,NCL,New Caledonia,Oceania
+134,AF,NER,Niger,Africa
+135,OC,NFK,Norfolk Island,Oceania
+136,AF,NGA,Nigeria,Africa
+137,NA,NIC,Nicaragua,North America
+138,EU,NLD,Netherlands,Europe
+139,EU,NOR,Norway,Europe
+140,AS,NPL,Nepal,Asia
+141,OC,NZL,New Zealand,Oceania
+142,AS,OMN,Oman,Asia
+143,AS,PAK,Pakistan,Asia
+144,NA,PAN,Panama,North America
+145,SA,PER,Peru,South America
+146,AS,PHL,Philippines,Asia
+147,OC,PLW,Palau,Oceania
+148,OC,PNG,Papua New Guinea,Oceania
+149,EU,POL,Poland,Europe
+150,NA,PRI,Puerto Rico,North America
+151,AS,PRK,North Korea,Asia
+152,EU,PRT,Portugal,Europe
+153,SA,PRY,Paraguay,South America
+154,AS,PS,Palestine,Asia
+155,RW,PSE,State of Palestine,Rest of World
+156,RW,PYF,French Polynesia,Rest of World
+157,AS,QAT,Qatar,Asia
+158,EU,ROU,Romania,Europe
+159,EU,RUS,Russia,Europe
+160,AF,RWA,Rwanda,Africa
+161,RW,S19,"Other Asia, nes",Rest of World
+162,AS,SAU,Saudi Arabia,Asia
+163,AF,SDN,Sudan,Africa
+164,AF,SEN,Senegal,Africa
+165,AS,SGP,Singapore,Asia
+166,OC,SLB,Solomon Islands,Oceania
+167,AF,SLE,Sierra Leone,Africa
+168,NA,SLV,El Salvador,North America
+169,EU,SMR,San Marino,Europe
+170,AF,SOM,Somalia,Africa
+171,EU,SRB,Serbia,Europe
+172,AF,STP,Sao Tome and Principe,Africa
+173,SA,SUR,Suriname,South America
+174,EU,SVK,Slovakia,Europe
+175,EU,SVN,Slovenia,Europe
+176,EU,SWE,Sweden,Europe
+177,AF,SWZ,Swaziland,Africa
+178,AF,SYC,Seychelles,Africa
+179,AS,SYR,Syria,Asia
+180,AF,TCD,Chad,Africa
+181,AF,TGO,Togo,Africa
+182,AS,THA,Thailand,Asia
+183,AS,TJK,Tajikistan,Asia
+184,AS,TKM,Turkmenistan,Asia
+185,RW,TLS,Timor-Leste,Rest of World
+186,OC,TON,Tonga,Oceania
+187,NA,TTO,Trinidad and Tobago,North America
+188,AF,TUN,Tunisia,Africa
+189,EU,TUR,Turkey,Europe
+190,OC,TUV,Tuvalu,Oceania
+191,AS,TWN,Taiwan,Asia
+192,AF,TZA,Tanzania,Africa
+193,AF,UGA,Uganda,Africa
+194,EU,UKR,Ukraine,Europe
+195,SA,URY,Uruguay,South America
+196,NA,USA,USA,North America
+197,AS,UZB,Uzbekistan,Asia
+198,EU,VAT,Holy See (Vatican City),Europe
+199,NA,VCT,Saint Vincent and the Grenadines,North America
+200,SA,VEN,Venezuela,South America
+201,AS,VNM,Vietnam,Asia
+202,OC,VUT,Vanuatu,Oceania
+204,OC,WSM,Samoa,Oceania
+205,EU,XC,Euro area,Europe
+206,AS,YEM,Yemen,Asia
+207,AF,ZAF,South Africa,Africa
+208,AF,ZMB,Zambia,Africa
+209,AF,ZWE,Zimbabwe,Africa
